@@ -4,4 +4,10 @@
 
 ## Languages
 
+~~C~~
+
 [C++](../master/cpp)
+
+Java
+
+Python
