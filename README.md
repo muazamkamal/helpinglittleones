@@ -4,10 +4,10 @@
 
 ## Languages
 
-~~C~~
+~~C~~ *(to be added)*
 
 [C++](../master/cpp)
 
-Java
+~~Java~~ *(to be added)*
 
-Python
+~~Python~~ *(to be added)*
