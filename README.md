@@ -1,2 +1,7 @@
-# helpinglittleones
-Knowledge are meant to be shared.
+# Helping Little Ones
+
+***Knowledge are meant to be shared.***
+
+## Languages
+
+[C++](../blob/master/cpp)
