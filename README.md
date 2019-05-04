@@ -4,4 +4,4 @@
 
 ## Languages
 
-[C++](../blob/master/cpp)
+[C++](../master/cpp)
